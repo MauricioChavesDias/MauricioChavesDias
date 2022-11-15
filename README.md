@@ -1,10 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=mauriciochavesdias&label=visitors&&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h1>🙋🏽‍♂️ Welcome to my Github Profile 🌱</h1>
-<p>My name is Mauricio and I am a Junior iOS engineer based in Sydney, Australia. Here you will find project that I am currently working on. </p>
+<p>My name is Mauricio and I am a Junior iOS engineer based in Sydney, Australia.</p>
+<p>Here you will find project that I am currently working on. Make yourself at home!</p>
 </br>
 
-<h3># 🙋🏽‍♂️ Find me on:</h3>
+<h3># 💁🏽‍♂️ Find me on:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciochavesdias/) 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauchavesdias@gmail.com?subject=[GitHub])
