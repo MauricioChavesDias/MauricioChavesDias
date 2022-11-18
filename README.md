@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=mauriciochavesdias&label=visitors&&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h1>🙋🏽‍♂️ Welcome to my Github Profile 🌱</h1>
-<p>My name is Mauricio and I am a Junior iOS engineer based in Sydney, Australia.</p>
-<p>Here you will find project that I am currently working on. Make yourself at home!</p>
+<p>My name is Mauricio and I am a Junior iOS Engineer based in Sydney, Australia.</p>
+<p>Here you will find some of the projects that I am currently working on. Make yourself at home!</p>
 </br>
 
 <h3># 💁🏽‍♂️ Find me on:</h3>
