@@ -2,7 +2,7 @@
 
 <h1>🙋🏽‍♂️ Welcome to my GitHub Profile 🌱</h1>
 
-<p>Hi! I'm Mauricio, an iOS Engineer based in Sydney, Australia 🇦🇺. I'm currently the tech lead for the Insite by Investa app, a digital workplace and building access solution. I work across the full lifecycle of mobile development — from architecture and SDK integration to deployment and client onboarding.</p>
+<p>Hi! I'm Mauricio, an iOS Engineer based in Sydney, Australia 🇦🇺. I'm currently team lead of the Insite by Investa app, a digital workplace and building access solution. I work across the full lifecycle of mobile development — from architecture and SDK integration to deployment and client onboarding.</p>
 
 <p>You'll find some of my personal and professional projects here — feel free to take a look around!</p>
 
